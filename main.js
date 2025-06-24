@@ -156,6 +156,8 @@ const questions = [
     correctAnswer: "12"
   }
 ];
+
+
 let score = 0;
 let currentQuestionIndex = 0;
 
