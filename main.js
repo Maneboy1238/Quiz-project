@@ -21,7 +21,7 @@ const questions = [
     correctAnswer: "Nucleolus"
   },
   {
-    question: "Which of the following organelles do not have a double layer membrane?",
+    question: "Which of the following organelles  have a double layer membrane?",
     options: ["cell wall", "chromoplasts", "chloroplasts", "None of the above"],
     correctAnswer: "chloroplasts"
   },
