@@ -1,79 +1,79 @@
 
 const questions = [
   {
-    question: "What is the capital of France?",
-    options: ["London", "Berlin", "Paris", "Madrid"],
-    correctAnswer: "Paris"
+    question: "Who was the first scientist to make discoveries about cells?",
+    options: ["Felix Dujardin", "Theodor Schwann", "Rudolf Virchow", "None of the above "],
+    correctAnswer: "None of the above"
   },
   {
-    question: "Who wrote 'Romeo and Juliet'?",
-    options: ["Charles Dickens", "William Shakespeare", "George Orwell", "Jane Austen"],
-    correctAnswer: "William Shakespeare"
+    question: "Which Scientist said that plants are composed of cells ?",
+    options: ["Charles Dickens", "Mathias Schledein", "George Orwell", "None of the above"],
+    correctAnswer: "Mathias Schledein"
   },
   {
-    question: "What is the boiling point of water?",
-    options: ["90°C", "100°C", "110°C", "120°C"],
-    correctAnswer: "100°C"
+    question: "The living content of a cell is ?",
+    options: ["Protoplasm", "Cytoplasm", "cytosol", "Plasma Membrane"],
+    correctAnswer: "Protoplasm"
   },
   {
-    question: "Which planet is known as the Red Planet?",
-    options: ["Earth", "Venus", "Mars", "Jupiter"],
-    correctAnswer: "Mars"
+    question: "The production of proteins in a cell starts from ?",
+    options: ["Nucleus", "Ribosomes", "chromatin thread", "Nucleolus"],
+    correctAnswer: "Nucleolus"
   },
   {
-    question: "Which gas do plants absorb from the atmosphere?",
-    options: ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
-    correctAnswer: "Carbon Dioxide"
+    question: "Which of the following organelles have a double layer membrane?",
+    options: ["cell wall", "chromoplasts", "chloroplasts", "None of the above"],
+    correctAnswer: "chloroplasts"
   },
   {
-    question: "What is the largest ocean on Earth?",
-    options: ["Atlantic", "Indian", "Pacific", "Arctic"],
-    correctAnswer: "Pacific"
+    question: "The organelles of a cell are located in _____",
+    options: ["Plasma Membrane", "Cell wall", "cytoplasm", "Protoplasm"],
+    correctAnswer: "cytoplasm"
   },
   {
-    question: "How many continents are there?",
-    options: ["5", "6", "7", "8"],
-    correctAnswer: "7"
+    question: "__________ is freely permeable?",
+    options: ["plasma membrane", "Cell wall", "Vacuole", "None of the above"],
+    correctAnswer: "Cell wall"
   },
   {
-    question: "What is the chemical symbol for gold?",
-    options: ["Ag", "Au", "Gd", "Go"],
-    correctAnswer: "Au"
+    question: "The outer membrane of the contractile vacuole is ?",
+    options: ["ponoplast", "honoplast", "sonoplast", "tonoplast"],
+    correctAnswer: "tonoplast"
   },
   {
-    question: "What is 9 × 7?",
-    options: ["56", "63", "72", "81"],
-    correctAnswer: "63"
+    question: "______ is found in the animal cell?",
+    options: ["cell wall", "None", "contractile vacuole", "food vacuole"],
+    correctAnswer: "food vacuole"
   },
   {
-    question: "Who painted the Mona Lisa?",
-    options: ["Michelangelo", "Leonardo da Vinci", "Raphael", "Donatello"],
-    correctAnswer: "Leonardo da Vinci"
+    question: "The cell membrane is made up of the following except?",
+    options: ["phospholipids", "starch granules", "carbohydrates", "None of the above"],
+    correctAnswer: "starch granules"
   },
   {
-    question: "In which year did Nigeria gain independence?",
-    options: ["1950", "1960", "1965", "1970"],
-    correctAnswer: "1960"
+    question: "which of the following is not used for storage?",
+    options: ["Leucoplast", "Amyplast", "eliaplast", "None of the above"],
+    correctAnswer: "eliaplast"
   },
   {
-    question: "What is the capital of Nigeria?",
-    options: ["Lagos", "Abuja", "Kano", "Ibadan"],
-    correctAnswer: "Abuja"
+    question: "Which of the following is the first 22 pairs of chromosomes",
+    options: ["Heterosomes", "Chromosomes", "Autosomes", "None of the above"],
+    correctAnswer: "Autosomes"
   },
   {
-    question: "Which is the largest mammal?",
-    options: ["Elephant", "Blue Whale", "Giraffe", "Hippopotamus"],
-    correctAnswer: "Blue Whale"
+    question: "which of the following is the splitting of the nucleus?",
+    options: ["Mitosis", "cytokinesis", "karyokinesis", "None of the above"],
+    correctAnswer: "karyokinesis"
   },
   {
-    question: "What is the square root of 81?",
-    options: ["9", "8", "7", "6"],
-    correctAnswer: "9"
+    question: "The poer house of a cell is  ?",
+    options: ["Mitochondria", "Nucleus", "Chloroplasts", "None of the above"],
+    correctAnswer: "Mitochondria"
   },
   {
-    question: "Which country is known for sushi?",
-    options: ["China", "Japan", "Thailand", "Vietnam"],
-    correctAnswer: "Japan"
+    question: "The suicide bag of a cell a known as ?",
+    options: ["Lysosomes", "Golgi body", "Cell sap", "None of the above"],
+    correctAnswer: "Lysosomes"
   },
   {
     question: "How many legs does a spider have?",
@@ -81,34 +81,34 @@ const questions = [
     correctAnswer: "8"
   },
   {
-    question: "What is the freezing point of water?",
-    options: ["0°C", "32°C", "100°C", "10°C"],
-    correctAnswer: "0°C"
+    question: "The placing of a plant cell in a hypertonic solution gives __ to occur?",
+    options: ["Haemolysis", "Turgidity", "plasmolysis", "Crenation"],
+    correctAnswer: "plasmolysis"
   },
   {
-    question: "Which continent is Egypt in?",
-    options: ["Asia", "Africa", "Europe", "America"],
-    correctAnswer: "Africa"
+    question: "Which of the following helps in osmoregulation",
+    options: ["Contractile Vacuole", "Food Vacuole", "Cell sap", "None of the above"],
+    correctAnswer: "Cell sap"
   },
   {
-    question: "How many hours are there in a day?",
-    options: ["24", "12", "36", "48"],
-    correctAnswer: "24"
+    question: "The pores of the cell wall are known as ?",
+    options: ["plasimodemata", "plasdemata", "plasmademata", "None of the above"],
+    correctAnswer: "None of the above"
   },
   {
-    question: "Which is the smallest planet in the solar system?",
-    options: ["Mercury", "Mars", "Venus", "Pluto"],
-    correctAnswer: "Mercury"
+    question: "Which of the following is an inclusion?",
+    options: ["lipid", "phospholipids", "Nucleus", "None of the above"],
+    correctAnswer: "lipid"
   },
   {
-    question: "What language is spoken in Brazil?",
-    options: ["Spanish", "English", "Portuguese", "French"],
-    correctAnswer: "Portuguese"
+    question: "The foldings of the mitochondria is ",
+    options: ["Cristean", "Criste", "Cristae", "Crustaceans"],
+    correctAnswer: "Cristae"
   },
   {
-    question: "Which instrument has keys, pedals, and strings?",
-    options: ["Guitar", "Violin", "Piano", "Flute"],
-    correctAnswer: "Piano"
+    question: "The mouth like structure of the snail is known as ?",
+    options: ["Pedipalps", "Radula", "Radule", "None of the above"],
+    correctAnswer: "Radula"
   },
   {
     question: "What is the main gas in the air we breathe?",
@@ -116,45 +116,42 @@ const questions = [
     correctAnswer: "Nitrogen"
   },
   {
-    question: "What is H2O?",
-    options: ["Salt", "Water", "Air", "Sugar"],
-    correctAnswer: "Water"
+    question: "A character that is controlled by many genes is known as a ?",
+    options: ["Homogenic character", "Na u know i no know am ", "Heterogenic character", "Polygenic Character"],
+    correctAnswer: "Polygenic Character"
   },
   {
-    question: "How many days are in a leap year?",
-    options: ["365", "366", "364", "367"],
-    correctAnswer: "366"
+    question: "Purines are made up of ?",
+    options: ["adenine and Guanine ", "Cytosine and Thymine ", "adenine and cytosine ", "Guanine and thymine"],
+    correctAnswer: "adenine and Guanine"
   },
   {
-    question: "Who was the first president of the USA?",
-    options: ["Abraham Lincoln", "George Washington", "John Adams", "Thomas Jefferson"],
-    correctAnswer: "George Washington"
+    question: "The gel like substance in the cytoplasm is known as ?",
+    options: ["Gelly", "Gam", "Cytosol", "i just dash una make u at least get one"],
+    correctAnswer: "Cytosol"
   },
   {
-    question: "What part of the body pumps blood?",
-    options: ["Lungs", "Heart", "Brain", "Kidney"],
-    correctAnswer: "Heart"
+    question: "The backbone of a Dna is made up of units of ",
+    options: ["Hexose Sugar", "Heptose Sugar", "Pentose Sugar", "None of the above"],
+    correctAnswer: "Pentose Sugar"
   },
   {
-    question: "Which animal is known as the king of the jungle?",
-    options: ["Elephant", "Tiger", "Lion", "Cheetah"],
-    correctAnswer: "Lion"
+    question: "which of the following is not a double layer membrane?",
+    options: ["chromoplast", "Mitochondria", "chloroplasts", "Nucleus"],
+    correctAnswer: "chromoplast"
   },
   {
-    question: "Which planet has rings around it?",
-    options: ["Saturn", "Earth", "Venus", "Neptune"],
-    correctAnswer: "Saturn"
+    question: "The most developed invertebrate is ?",
+    options: ["Myriapoda", "Echinodermata", "Insecta", "None of the above"],
+    correctAnswer: "Echinodermata"
   },
   {
-    question: "What is the opposite of 'cold'?",
-    options: ["Cool", "Hot", "Warm", "Frozen"],
-    correctAnswer: "Hot"
-  },
-  {
-    question: "How many months make a year?",
-    options: ["10", "11", "12", "13"],
-    correctAnswer: "12"
+    question: "Which of the following does fish uses to breathe ",
+    options: ["Gill raker", "Gill filament", "Gill Chamber", "None of the above"],
+    correctAnswer: "Gill filament"
   }
+  
+    
 ];
 
 
@@ -198,7 +195,7 @@ function showQuestion () {
       
       output += `
       <div class="wrapper-btn"><label class="opt-button">
-      <input type="radio" >${option}</label>
+      <input type="radio">${option}</label>
       </div>
       
       `; 
