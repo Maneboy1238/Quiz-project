@@ -161,7 +161,7 @@ let currentQuestionIndex = 0;
 let questionNumber = 1;
 
   
-  let totalSeconds = 1;
+  let totalSeconds = 180;
   
   const quizBox = document.querySelector('.quiz-box');
   
