@@ -7,22 +7,18 @@ html, body {
 html, body {
     overflow-x: hidden;
 }
-.header {
+header {
     position: fixed;
     display: flex;
     justify-content: space-between;
     top: 0;
     left: 0;
     width: 100%;
-    height: 3rem;
+    height: 4rem;
     padding: 1rem;
-    backdrop-filter: blur(50px);
+    
   
-    
-    
-}
- .header-text {
-       font-size: 2rem;
+    font-size: 2rem;
     font-weight: bold;
     background: linear-gradient(120deg, #E79E18, #F0F034);
     -webkit-text-fill-color: transparent;
@@ -31,12 +27,16 @@ html, body {
     width: fit-content;
     
     
+}
+ .header-text {
+       
+    
 
  }
 
 .timer {
     font-size: 2rem;
-    margin-top: 3rem;
+    margin-top: 6rem;
     margin-right: 1.5rem;
     margin-bottom: 0rem;
     font-weight: bold;
@@ -238,15 +238,16 @@ section a button {
     flex-direction: row;
     top: 0;
     width: 100%;
-    
-    height: 4rem;
+    backdrop-filter: blur(50px);
+    height: 3.5rem;
 }
 .header h1 {
+    width: 100%;
     background: linear-gradient(120deg, #E79E18, #F0F034);
     -webkit-text-fill-color: transparent;
     -webkit-background-clip: text;
     background-clip: text;
-    width: fit-content;
+    
     
     font-size: 1.5rem;
 }
@@ -270,7 +271,7 @@ section a button {
     transform: translateX(100%);
     overflow-y: auto;
     height: 100%;
-    width: 100%;
+    min-width: 100%;
     background: whitesmoke;
     transition:  all 0.2s ease;
 }
