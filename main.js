@@ -66,7 +66,7 @@ const questions = [
     correctAnswer: "karyokinesis"
   },
   {
-    question: "The poer house of a cell is  ?",
+    question: "The power house of a cell is  ?",
     options: ["Mitochondria", "Nucleus", "Chloroplasts", "None of the above"],
     correctAnswer: "Mitochondria"
   },
